@@ -1,4 +1,4 @@
-# TFX-End-to-End-Pipeline-for-Computer-Vision
+# TFX-End-to-End-Pipeline-for-Computer-Vision - Example Cat and Dog 
 
 This repository demonstrates the end-to-end workflow of Computer vision Classification based problem and the steps required to analyze, validate, and transform data, train a model, analyze its performance, and serve it.
 
@@ -16,4 +16,7 @@ Used TFX Components
 
 Module file includes the util functions
 
-#The dataset This example uses the kaggle tomato dataset
+#The dataset This example uses the kaggle Cat and Dog dataset
+
+ - Orchestrators - Apache Airflow and Apache beam
+ ![Screenshot 2022-09-25 005436](https://user-images.githubusercontent.com/47025217/192115153-75da4710-e495-4c32-8631-54591c7f525e.jpg)
