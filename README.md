@@ -16,7 +16,7 @@ Used TFX Components
 
 Module file includes the util functions
 
-#The dataset This example uses the kaggle Cat and Dog dataset
+#The dataset -This example uses the kaggle Cat and Dog dataset
 
  - Orchestrators - Apache Airflow and Apache beam
  ![Screenshot 2022-09-25 005436](https://user-images.githubusercontent.com/47025217/192115153-75da4710-e495-4c32-8631-54591c7f525e.jpg)
